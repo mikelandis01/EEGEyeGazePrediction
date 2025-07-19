@@ -1,0 +1,1 @@
+Three models have been made, one using all 128 channels to p[redict, one using 64 of the most significant channels, and one using the 32 most significant channels.
